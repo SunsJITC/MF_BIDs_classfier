@@ -13,7 +13,5 @@ Our framework builds upon two foundation encoders:
   GitHub: [https://github.com/facebookresearch/mae](https://github.com/facebookresearch/mae)  
   Reference: He K, et al. *CVPR* (2022).
 
-We provide wrappers in `src/mfai/models/backbones.py` to load these encoders.  
-Due to size and license constraints, **pretrained weights are not stored in this repository**.  
-Users should download the official weights from the links above, or use the instructions in `configs/paths.example.yaml` to set local paths.
+For access to the pretrained MAE weights adapted for this study, please contact the corresponding author.
 
